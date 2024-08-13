@@ -1,4 +1,4 @@
-<h2 align="center"> My Personal Portfolio[Task 1] </h2>
+<h2 align="center"> My Personal Portfolio </h2>
 
 Welcome to my personal portfolio website, where I showcase my skills, projects, and professional journey. This portfolio includes:
 
